@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1652929290 source:c:\users\lruedakramer\documents\lucas rueda\2022\utn\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"funciones.h"
+	"auto.h"
+	"color.h"
+	"marca.h"
+	"Servicios.h"
+	"trabajo.h"
+
+1652931230 c:\users\lruedakramer\documents\lucas rueda\2022\utn\examen\funciones.h
+	"auto.h"
+	"color.h"
+	"marca.h"
+	"Servicios.h"
+
+1653071858 source:c:\users\lruedakramer\documents\lucas rueda\2022\utn\examen\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"color.h"
+	"marca.h"
+	"Servicios.h"
+
+1652482520 source:c:\users\lruedakramer\documents\lucas rueda\2022\utn\examen\fecha.c
+	"fecha.h"
+
+1652482520 c:\users\lruedakramer\documents\lucas rueda\2022\utn\examen\fecha.h
+
+1652931230 source:c:\users\lruedakramer\documents\lucas rueda\2022\utn\examen\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1652931230 c:\users\lruedakramer\documents\lucas rueda\2022\utn\examen\marca.h
+
+1653071863 source:c:\users\lruedakramer\documents\lucas rueda\2022\utn\examen\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"auto.h"
+	"color.h"
+
+1652930926 c:\users\lruedakramer\documents\lucas rueda\2022\utn\examen\auto.h
+	"fecha.h"
+	"marca.h"
+	"color.h"
+
+1652931059 c:\users\lruedakramer\documents\lucas rueda\2022\utn\examen\color.h
+
+1652931059 source:c:\users\lruedakramer\documents\lucas rueda\2022\utn\examen\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1652931252 source:c:\users\lruedakramer\documents\lucas rueda\2022\utn\examen\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicios.h"
+
+1652931230 c:\users\lruedakramer\documents\lucas rueda\2022\utn\examen\servicios.h
+
+1652909515 c:\users\lruedakramer\documents\lucas rueda\2022\utn\examen\trabajo.h
+	"auto.h"
+	"Servicios.h"
+	"fecha.h"
+
+1652916087 source:c:\users\lruedakramer\documents\lucas rueda\2022\utn\examen\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+	"Servicios.h"
+
